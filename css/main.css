@@ -1,0 +1,72 @@
+p {
+	font-family: 'PT Sans', Arial, sans-serif;
+	width:1600px;
+	margin-left:140px;
+	font-size:31px;
+	margin-top: 60px;
+	margin-bottom:60px;
+	line-height:150%;
+	color: #5E5E5E;
+	font-weight:normal;
+}
+
+h2 {
+	text-align:center;
+	color:black;
+	font-family: 'Rock Salt', cursive, sans-serif;
+	letter-spacing:128%;
+	line-height:186%;
+	font-size:54px;
+	width:594px;
+	margin-top:-425px;
+	margin-bottom:425px;
+	margin-left:127px;
+	color:white;
+}
+
+hr {
+	width:812px;
+	background-color:#5E5E5E;
+	height:1px;
+}
+
+.bottom {
+	margin-bottom:80px;
+}
+
+.top {
+	margin-top:80px;
+}
+
+.hidden {
+	display:none;
+}
+
+#Intro {
+	margin-left:15px;
+	margin-top:-25px;
+	margin-bottom:-35px;
+}
+
+#Green {
+	margin-top:-460px;
+	margin-bottom:150px;
+	margin-left:18px;
+}
+
+#Brewer {
+	margin-left:1060px;
+	margin-top:-470px;
+	margin-bottom:-90px;
+}
+
+#Wolverine {
+	margin-left:1060px;
+	margin-bottom:-120px;
+}
+
+#Con {
+	margin-top:65px;
+	margin-bottom:-80px;
+	margin-left:18px;
+}
